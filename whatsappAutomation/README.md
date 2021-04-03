@@ -1,3 +1,4 @@
+First install pywhatkt module by command "pip install pywhatkt" in command prompt
 pip install pywhatkit
 When using the library Pywhatkit, we need to be logged in web.whatsapp.com website and have a chrome browser to set a whatsapp message at a given time.
 syntax:
