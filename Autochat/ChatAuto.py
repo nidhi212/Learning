@@ -1,6 +1,6 @@
 import pyautogui
 import time
-text="I love Rohu"
+text="I love python"
 count=5
 while count:
   time.sleep(2)
